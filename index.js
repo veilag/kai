@@ -276,6 +276,7 @@ function K(e, n, r, i, a, o) {
 }
 //#endregion
 //#region src/app.tsx
+console.log("Hello, world");
 function q({ title: e }) {
 	return /* @__PURE__ */ K("h1", { children: e });
 }
