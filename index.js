@@ -299,5 +299,5 @@ var J = class extends HTMLElement {
 		})), W(/* @__PURE__ */ K(q, { ...this.props }), this);
 	}
 };
-customElements.define("test", J);
+customElements.define("test-element", J);
 //#endregion
